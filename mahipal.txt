@@ -10,7 +10,8 @@ def split_name(full_name):
     return first_name, last_name
 
 # Example usage
-name = "John Doe"
+
+name = "Mahipal Singh Rathore"
 first, last = split_name(name)
 print("First Name:", first)
 print("Last Name:", last)
